@@ -1,17 +1,17 @@
-DevOps Toolkit Repo
+# DevOps Toolkit Repo
 
 A collection of Bash automation scripts and DevOps utilities built as part of the Weekly Mini-Project (Part A — Local Track).
 
-The project demonstrates:
+# The project demonstrates:
 
-Linux shell scripting
-User management automation
-Log analysis
-Backup automation
-System monitoring
-Nginx deployment
-systemd services and timers
-Git workflow and repository hygiene
+1. Linux shell scripting
+2. User management automation
+3. Log analysis
+4. Backup automation
+5. System monitoring
+6. Nginx deployment
+7. systemd services and timers
+8. Git workflow and repository hygiene
 
 Repository Structure
 .
