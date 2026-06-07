@@ -25,6 +25,8 @@ A collection of Bash automation scripts and DevOps utilities built as part of th
 │   ├── user_manager.sh
 │   ├── access.log    
 │   └── users.csv
+│ 
+├── Images/(files for readme.md and demo.md images)
 │
 ├── systemd/
 │   ├── sysreport.timer
