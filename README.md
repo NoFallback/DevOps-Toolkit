@@ -43,5 +43,6 @@ A collection of Bash automation scripts and DevOps utilities built as part of th
 
 ```
 
+# Light descriptin of folders and files:
 
 
