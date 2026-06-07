@@ -1,0 +1,27 @@
+# Environment files
+
+.env
+.env.example
+
+
+# Logs
+
+*.log
+
+# macOS
+
+.DS_Store
+
+# Editor files
+
+*.swp
+*~
+
+# Build folders
+
+build/
+dist/
+
+# VS Code
+
+.vscode/

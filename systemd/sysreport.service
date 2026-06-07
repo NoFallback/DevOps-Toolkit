@@ -1,0 +1,11 @@
+[Unit]
+Description=System Report Monitor (one-shot)
+[Service]
+Type=oneshot
+ExecStart=/home/ubuntu/Documents/mini-project/scripts/sysreport.sh
+User=ubuntu
+StandardOutput=journal
+StandardError=journal
+
+
+

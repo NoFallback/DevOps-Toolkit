@@ -1,0 +1,10 @@
+create,alice
+create,bob
+delete,alice
+create,cherry
+create,bob
+delete,alice
+create,deniel
+delete,deniel
+delete,cherry
+delete,bob

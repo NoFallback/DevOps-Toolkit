@@ -1,0 +1,18 @@
+[Unit]
+Description=CSOT Demo App
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/Documents/mini-project/scripts
+ExecStart=/usr/bin/python3 /home/ubuntu/Documents/mini-project/scripts/deploy.py
+Restart=on-failure
+RestartSec=3
+Environment=PORT=8000
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
+
