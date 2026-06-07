@@ -13,15 +13,17 @@ A collection of Bash automation scripts and DevOps utilities built as part of th
 7. systemd services and timers
 8. Git workflow and repository hygiene
 
-Repository Structure
+# Repository Structure
+
+```
 .
-├── scripts/
+├── scripts/ 
 │   ├── backup.sh
 │   ├── deploy.sh
 │   ├── log_parser.sh
 │   ├── sysreport.sh
 │   ├── user_manager.sh
-│   ├── access.log
+│   ├── access.log    
 │   └── users.csv
 │
 ├── systemd/
@@ -38,4 +40,8 @@ Repository Structure
 ├── LICENSE
 ├── .gitignore
 └── .env.example
+
+```
+
+
 
